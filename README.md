@@ -278,7 +278,8 @@ footer {
 
 ### Screenshot hasil dan codingannya
 
-<img width="900" height="450" alt="layout sederhana" src="https://github.com/user-attachments/assets/xxxxxxxxx" />
+<img width="1725" height="928" alt="image" src="https://github.com/user-attachments/assets/d8a20aef-756a-46bc-8878-8d20e026b7e8" />
+
 
 ### Penjelasan
 
