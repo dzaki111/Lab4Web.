@@ -1,9 +1,9 @@
 # Lab4Web.
 
 # Lab4Web
-#### Nama   = [ISI NAMA KAMU]  
-#### Kelas  = [ISI KELAS]  
-#### NIM    = [ISI NIM]  
+#### Nama   = Dzaki Arif Rahman
+#### Kelas  = TI.24.A4 
+#### NIM    = 312410312 
 #### Matkul = Pemrograman Web 1  
 
 # Praktikum 4 – CSS Layout
