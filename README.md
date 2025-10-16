@@ -11,7 +11,8 @@
 
 ## Pertanyaan Praktikum
 
-<img width="900" height="400" alt="Screenshot Pertanyaan Praktikum 4" src="https://github.com/user-attachments/assets/xxxxxxxxx" />
+<img width="771" height="331" alt="image" src="https://github.com/user-attachments/assets/c6b539e3-e89d-4359-ae7a-7374491073b0" />
+
 
 ---
 
