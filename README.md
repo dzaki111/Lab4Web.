@@ -118,7 +118,8 @@ Tambahkan properti `clear` untuk mengatur posisi elemen berikutnya agar tidak se
 
 ### Screenshot hasil dan codingannya
 
-<img width="800" height="400" alt="clearfix" src="https://github.com/user-attachments/assets/xxxxxxxxx" />
+<img width="1614" height="918" alt="image" src="https://github.com/user-attachments/assets/bd457df0-bbdd-474e-bdc8-ac6d6773ad54" />
+
 
 ### Penjelasan
 
