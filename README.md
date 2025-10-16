@@ -1,4 +1,3 @@
-# Lab4Web.
 
 # Lab4Web
 #### Nama   = Dzaki Arif Rahman
