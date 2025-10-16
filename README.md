@@ -18,13 +18,27 @@
 
 ## Jawaban dan Penjelasan  
 
-Pada praktikum kali ini, kita akan belajar tentang **CSS Layout**, yaitu cara mengatur tata letak elemen-elemen pada halaman web.  
-Beberapa hal yang dipelajari di praktikum ini antara lain:
-1. **Box Element** – memahami struktur dasar elemen dalam bentuk kotak (box model).  
-2. **Float Property** – membuat elemen “mengambang” di sisi kiri/kanan.  
-3. **Clearfix** – mengatur elemen agar tidak bertabrakan dengan elemen yang difloat.  
-4. **HTML5 Semantic Elements** – mengenal tag semantik seperti `<header>`, `<nav>`, `<section>`, `<aside>`, `<footer>`.  
-5. **Layout Web Sederhana** – menggabungkan semua konsep di atas menjadi satu halaman web.  
+Pada praktikum kali ini, saya mempelajari tentang CSS Layout, yaitu cara mengatur tata letak elemen-elemen pada halaman web agar tampil lebih rapi, seimbang, dan menarik.
+Tujuan dari praktikum ini adalah agar saya memahami bagaimana struktur halaman web dibentuk — mulai dari bagian header, navigasi, konten utama, sidebar, hingga footer — serta bagaimana semua bagian tersebut diatur menggunakan CSS.
+
+Beberapa hal penting yang saya pelajari dalam praktikum ini antara lain:
+
+1. Box Element
+Pada bagian ini saya belajar bahwa semua elemen HTML sebenarnya memiliki bentuk kotak (box). Dengan memahami konsep box model, saya dapat mengatur ukuran, jarak (margin dan padding), serta warna dari setiap elemen agar tampilannya sesuai kebutuhan.
+
+2.Float Property
+Di sini saya mempelajari bagaimana cara membuat elemen “mengambang” ke sisi kiri atau kanan halaman menggunakan properti float. Teknik ini biasanya digunakan untuk membuat layout kolom, seperti menempatkan konten utama dan sidebar berdampingan.
+
+3.Clearfix
+Saya juga mempelajari cara menggunakan clear untuk mengatasi masalah tata letak yang terjadi akibat penggunaan float. Dengan properti ini, elemen berikutnya tidak akan bertabrakan dengan elemen yang difloat sebelumnya.
+
+4.HTML5 Semantic Elements
+Selain itu, saya dikenalkan dengan berbagai elemen semantik dalam HTML5 seperti <header>, <nav>, <section>, <article>, <aside>, dan <footer>. Elemen-elemen ini memberikan makna yang lebih jelas terhadap struktur halaman web sehingga lebih mudah dipahami oleh pengguna maupun mesin pencari seperti Google.
+
+5.Layout Web Sederhana
+Pada bagian terakhir, saya menggabungkan semua konsep yang telah dipelajari untuk membuat sebuah layout web sederhana. Layout ini terdiri dari beberapa bagian utama seperti header, navigasi, hero section, konten utama, sidebar, dan footer.
+Dari latihan ini, saya belajar bagaimana membangun tampilan web yang tertata rapi dan terlihat profesional meskipun menggunakan teknik dasar CSS.
+
 
 ---
 
