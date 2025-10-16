@@ -1,11 +1,5 @@
 # Lab4Web.
-Oke! 😎 Jadi kamu ingin README untuk **Praktikum 4 – CSS Layout** disusun **step by step seperti contoh Lab3Web-mu** (ada bagian biodata, pertanyaan, jawaban, coding, screenshot, penjelasan, dan kesimpulan).
 
-Berikut ini README lengkapnya untuk **Lab4Web** (Praktikum 4 – CSS Layout), sudah disusun dengan gaya dan format yang sama 👇
-
----
-
-````markdown
 # Lab4Web
 #### Nama   = [ISI NAMA KAMU]  
 #### Kelas  = [ISI KELAS]  
