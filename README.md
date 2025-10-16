@@ -84,7 +84,8 @@ Tambahkan kode CSS di bagian `<head>` untuk memberi warna dan mengatur posisi.
 
 ### Screenshot hasil dan codingannya
 
-<img width="800" height="400" alt="box-element" src="https://github.com/user-attachments/assets/xxxxxxxxx" />
+<img width="1640" height="1030" alt="image" src="https://github.com/user-attachments/assets/d1f0019c-651e-4e9b-b868-404a4f5168e0" />
+
 
 ### Penjelasan
 
