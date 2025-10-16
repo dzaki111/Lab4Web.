@@ -188,6 +188,10 @@ Buat file baru `home.html` di folder `lab4_layout`.
 </html>
 
 ```
+### Screenshot hasil dan codingannya
+
+<img width="1486" height="899" alt="image" src="https://github.com/user-attachments/assets/98de6338-6e1a-42e9-8f73-8cddac31b1f3" />
+
 
 ---
 
@@ -278,7 +282,8 @@ footer {
 
 ### Screenshot hasil dan codingannya
 
-<img width="1725" height="928" alt="image" src="https://github.com/user-attachments/assets/d8a20aef-756a-46bc-8878-8d20e026b7e8" />
+<img width="1726" height="936" alt="image" src="https://github.com/user-attachments/assets/30c2d0c3-b414-4e99-a31f-467bf162a51a" />
+
 
 
 ### Penjelasan
