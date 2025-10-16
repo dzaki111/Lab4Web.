@@ -146,7 +146,7 @@ Buat file baru `home.html` di folder `lab4_layout`.
 <body>
   <div id="container">
     <header>
-      <h1>Layout Sederhana</h1>
+      <h1>Dzaki Arif Rahman</h1>
     </header>
 
     <nav>
@@ -164,7 +164,7 @@ Buat file baru `home.html` di folder `lab4_layout`.
 
     <section id="wrapper">
       <section id="main">
-        <h2>Welcome to My Website</h2>
+        <h2>Welcome to My Website ZAKI</h2>
         <p>Contoh konten utama ditampilkan di sini...</p>
       </section>
 
@@ -186,6 +186,7 @@ Buat file baru `home.html` di folder `lab4_layout`.
   </div>
 </body>
 </html>
+
 ```
 
 ---
