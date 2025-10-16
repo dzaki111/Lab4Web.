@@ -301,18 +301,79 @@ footer {
 Halaman ini berisi deskripsi diri dan daftar portfolio.
 
 ```html
-<section id="main">
-  <h2>Tentang Saya</h2>
-  <p>Saya adalah mahasiswa Universitas Pelita Bangsa yang sedang mempelajari Pemrograman Web.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Dzaki Arif Rahman</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+    <header>
+      <h1>Dzaki Arif Rahman</h1>
+    </header>
 
-  <h3>Portfolio</h3>
-  <ul>
-    <li>Project 1 – Desain Web Pribadi</li>
-    <li>Project 2 – Sistem Inventori Barang</li>
-    <li>Project 3 – Landing Page UMKM</li>
-  </ul>
-</section>
-```
+    <nav>
+      <a href="home.html">Home</a>
+      <a href="artikel.html">Artikel</a>
+      <a href="about.html" class="active">About</a>
+      <a href="kontak.html">Kontak</a>
+    </nav>
+
+    <section id="wrapper">
+      <section id="main">
+        <h2>Tentang Saya</h2>
+        <p>Halo! Saya <b>Dzaki Arif Rahman</b>, mahasiswa Universitas Pelita Bangsa, jurusan Teknik Informatika.  
+        Saat ini saya sedang mempelajari dasar-dasar <b>Pemrograman Web</b> termasuk HTML, CSS, dan JavaScript.  
+        Tujuan saya adalah menjadi seorang Web Developer profesional yang bisa membangun website interaktif dan fungsional.</p>
+
+        <h3>Portfolio</h3>
+        <ul>
+          <li> Project 1 – Desain Web Pribadi</li>
+          <li> Project 2 – Sistem Inventori Barang</li>
+          <li> Project 3 – Landing Page UMKM</li>
+        </ul>
+
+        <h3>Keahlian</h3>
+        <p>Saya memiliki minat dalam bidang:</p>
+        <ul>
+          <li>lagi belajar (HTML, CSS)</li>
+          <li>Desain UI/UX</li>
+          <li>Pengembangan Aplikasi Web Dasar</li>
+        </ul>
+      </section>
+
+      <aside id="sidebar">
+        <div class="widget-box">
+          <h3 class="title">Tentang Saya</h3>
+          <p>Saya mahasiswa yang bersemangat dalam dunia teknologi dan ingin terus berkembang dalam bidang web development.</p>
+        </div>
+
+        <div class="widget-box">
+          <h3 class="title">Media Sosial</h3>
+          <ul>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">GitHub</a></li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 - Dzaki Arif Rahman | Universitas Pelita Bangsa</p>
+    </footer>
+  </div>
+</body>
+</html>
+````
+
+### Screenshot hasil dan codingannya
+
+<img width="1725" height="934" alt="image" src="https://github.com/user-attachments/assets/b2dfb8df-e319-47c8-97a2-3f99bf061811" />
+
 
 ---
 
@@ -321,31 +382,76 @@ Halaman ini berisi deskripsi diri dan daftar portfolio.
 Halaman ini berisi form sederhana.
 
 ```html
-<section id="main">
-  <h2>Kontak Kami</h2>
-  <form action="proses.php" method="post">
-    <p>
-      <label for="nama">Nama</label><br>
-      <input type="text" id="nama" name="nama" required>
-    </p>
-    <p>
-      <label for="email">Email</label><br>
-      <input type="email" id="email" name="email" required>
-    </p>
-    <p>
-      <label for="pesan">Pesan</label><br>
-      <textarea id="pesan" name="pesan" rows="4"></textarea>
-    </p>
-    <p>
-      <button type="submit">Kirim</button>
-    </p>
-  </form>
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Dzaki Arif Rahman</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+    <header>
+      <h1>Contact Dzaki Arif Rahman</h1>
+    </header>
+
+    <nav>
+      <a href="home.html">Home</a>
+      <a href="artikel.html">Artikel</a>
+      <a href="about.html">About</a>
+      <a href="kontak.html" class="active">Kontak</a>
+    </nav>
+
+    <section id="wrapper">
+      <section id="main">
+        <h2>Hubungi Saya</h2>
+        <p>Silakan isi form di bawah ini untuk mengirim pesan atau pertanyaan:</p>
+
+        <form action="proses.php" method="post">
+          <p>
+            <label for="nama">Nama</label><br>
+            <input type="text" id="nama" name="nama" placeholder="Masukkan nama lengkap" required>
+          </p>
+          <p>
+            <label for="email">Email</label><br>
+            <input type="email" id="email" name="email" placeholder="Masukkan alamat email" required>
+          </p>
+          <p>
+            <label for="pesan">Pesan</label><br>
+            <textarea id="pesan" name="pesan" rows="5" placeholder="Tulis pesan Anda di sini..."></textarea>
+          </p>
+          <p>
+            <button type="submit">Kirim Pesan</button>
+          </p>
+        </form>
+      </section>
+
+      <aside id="sidebar">
+        <div class="widget-box">
+          <h3 class="title">Informasi Kontak</h3>
+          <ul>
+            <li>Email: <a href="mailto:dzaki@example.com">dzaki@example.com</a></li>
+            <li>Instagram: <a href="#">@dzakiarif_</a></li>
+            <li>Alamat: Bekasi, Jawa Barat</li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 - Dzaki Arif Rahman | Universitas Pelita Bangsa</p>
+    </footer>
+  </div>
+</body>
+</html>
+
 ```
 
 ### Screenshot hasil dan codingannya
 
-<img width="900" height="450" alt="contact page" src="https://github.com/user-attachments/assets/xxxxxxxxx" />
+<img width="1730" height="957" alt="image" src="https://github.com/user-attachments/assets/2b91484f-4e95-4bb6-b23c-affa11f4a2d5" />
+
 
 ### Penjelasan
 
@@ -355,7 +461,7 @@ Halaman ini berisi form sederhana.
 
 ---
 
-## 💡 Kesimpulan
+## Kesimpulan
 
 Dari praktikum ini, kita telah mempelajari cara membuat **layout web sederhana** menggunakan kombinasi HTML dan CSS.
 Konsep **box model**, **float**, **clear**, dan **HTML5 semantic elements** sangat penting dalam mengatur struktur tampilan web agar lebih rapi dan mudah dipahami.
